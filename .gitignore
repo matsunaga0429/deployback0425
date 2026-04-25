@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+myenv/
+backend_env/
+requirements.txt.backup
+
+
+# Node
+node_modules/
+.next/
+.env.local
+
+# その他
+*.log
+.DS_Store
+db_control/CRM.db
+db_control/mymodels.py
