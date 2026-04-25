@@ -17,5 +17,3 @@ node_modules/
 # その他
 *.log
 .DS_Store
-db_control/CRM.db
-db_control/mymodels.py
